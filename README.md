@@ -34,10 +34,4 @@ This dashboard is designed to analyze:
 - **Data Cleaning** and **ETL Techniques**
 - **Charts:** Bar, Pie, Donut, Line, and KPI Cards
 
----
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+  # Dashboard preview:-https://github.com/ashutosh25072005-sys/sales-dashboard/blob/main/sales%20Dashboard.png
